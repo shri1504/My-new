@@ -1,0 +1,25 @@
+App{
+  text-align: center;
+  display: flex;
+  justify-content:start ;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100%;
+  color:blanchedalmond;
+  background-color: rgb(199, 104, 104);
+}
+h2{
+  color: blueviolet;
+  text-transform: uppercase;
+}
+button{
+  color:aliceblue;
+  padding:5px 25px;
+  margin: 10px;
+  font-size: 10px ;
+
+  text-transform: uppercase;
+  width: 300px;
+  border-radius:10px;
+  background-color:rgb(13, 56, 97);
+}
